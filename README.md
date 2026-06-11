@@ -144,8 +144,8 @@ Japan Highly Skilled Foreign Professional Visa Points Calculator
 ### 参考資料
 
 仓库内参考文件 `IT資格説明.txt` 包含：
-- [キクチ行政書士事務所](https://kikuchi-office.com/) 的IT資格加点解説ブログ（2022年11月）
-- 法務省公式「出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件」全文
+- [キクチ行政書士事務所](https://kikuchi-office.com/) 的 [IT資格加点解説ブログ（2022年11月）](https://kikuchi-immigration-services.com/blog/november-8-2022/)
+- 法務省公式「出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件」全文（[官报告示原文](https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html)）
 
 ### IT資格 Q&A — 跨国・跨级别组合是否有效？
 
@@ -222,7 +222,7 @@ npm run preview   # 预览构建结果
 |------|------|------|
 | `930001673.xls` | 高度専門職ポイント計算表（R5.4.1） | [出入国在留管理庁](https://www.moj.go.jp/isa/) |
 | `加点対象となる大学一覧.pdf` | ⑰加点対象大学一览（2026年1月） | [出入国在留管理庁](https://www.moj.go.jp/isa/) |
-| `IT資格説明.txt` | ⑧IT告示試験・資格の詳細と官报告示全文 | [キクチ行政書士事務所](https://kikuchi-office.com/) / [出入国在留管理庁](https://www.moj.go.jp/isa/) |
+| `IT資格説明.txt` | ⑧IT告示試験・資格の詳細と官报告示全文 | [キクチ事務所ブログ](https://kikuchi-immigration-services.com/blog/november-8-2022/) / [官报告示](https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html) |
 
 ## License
 
