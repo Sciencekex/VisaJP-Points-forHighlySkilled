@@ -1,0 +1,47 @@
+Ctrl+K
+Ctrl+J
+
+
+
+日本高度人才积分表的计算器有没有，在线网页推荐一下的
+
+
+8s 考えました
+是的，有不少在线网页计算器可以帮你快速计算日本“高度専門職”（高度人才/Highly Skilled Professional）的积分。⁠Riri-office
+
+官方没有提供互动网页计算器，但法务省（出入国在留管理庁）提供了官方Excel计算表（推荐下载最准确），同时有很多行政书士事务所或移民咨询网站开发了免费的网页版自动计算器，操作简单，适合初步自查。
+
+推荐在线计算器（优先选这些）：
+りりぃ行政書士事務所 - 高度人材ポイント自動計算表（最推荐之一）
+https://riri-office.com/points/
+支持不同活动类别（イ/ロ/ハ），自动计算，很直观。⁠Riri-office
+てしろぎ事務所 - 高度人材ポイント計算ツール（支持中/英/日切换）
+https://teshirogi-office.com/visahighskillcalc/
+多语言友好，自动集计，适合非日语母语者。⁠Teshirogi-office
+visajapan.jp - 高度専門職1号ロ自动计算（以及其他类别）
+https://www.visajapan.jp/koudo_point1.html
+有多个类别的专用工具，解释详细。⁠Visajapan
+其他不错的选择：
+https://www.jaisol.co.jp/tools/visa/koudo-point.html（1号ロ专用）⁠Jaisol
+https://continental-immigration.com/hsp/hsp_calculating/point/（HSP Points Calculator，有英文版）⁠Continental-immigration
+https://www.office-kamiyama-tokyo.com/column-highly-skilled-visa-point-simulator/（简易シミュレーター）⁠Office-kamiyama-tokyo
+官方资源（强烈建议结合使用）：
+官方ポイント計算表 Excel（最新版）：
+法务省官网下载 或 PDF 版。⁠Moj
+官方说明页：搜索“高度専門職 ポイント計算表”进入出入国在留管理庁页面。
+使用小贴士：
+积分门槛：一般70分以上可申请高度専門職1号，80分以上有更多优待（如永住更快）。
+计算时需区分イ（学术研究）、ロ（専門・技术）、ハ（经营管理）三个类别，选对自己的适用类型。
+网页工具是参考，实际申请以官方Excel + 提交材料为准，年収、年龄、资格等项目有细则，建议计算后咨询行政书士确认。
+英文工具也有（如 japanprcalculator.com 等），但日文工具更新通常更快。
+如果你告诉我你的具体情况（学历、年収、职种等），我可以帮你大致估算一下，或者你直接试用上面链接的工具！需要更多细节推荐随时问。
+
+
+
+
+35 sources
+
+
+
+SuperGrokにアップグレード
+New conversation - Grok
