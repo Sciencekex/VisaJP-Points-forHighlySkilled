@@ -1,0 +1,458 @@
+
+匯出
+Home
+ブログ
+代表挨拶
+ご依頼の流れ
+サービス内容
+
+
+
+
+料金表
+Access
+求人
+お問い合わせ/Inquiry
+相談/Consultation
+English
+高度専門職ポイントにおいて、加点対象となるIT資格とは？
+
+
+November 8 2022
+
+
+
+高度専門職の加点ポイントして、学歴、年収、職務経歴、年齢などがありますが、ITエンジニアやIT関連業務の方にとって、必ずチェックしてもらいたい加点ポイントは「資格」です。
+高度専門職のポイント計算について知りたい方は、コチラの記事をご確認ください！
+
+何点の加点になる？
+
+IT告示に定める試験に合格し若しくは資格を保有している場合、1つであれば5点、複数であれば10点の加点対象となります。
+
+
+
+加点対象となるIT資格とは？
+
+IT告示に定める試験は、日本、およびアジア圏(中国、フィリピン、ベトナム、ミャンマー、台湾、マレーシア、タイ、モンゴル、バングラデシュ、シンガポール、韓国)の11カ国で実施されている以下の試験のことを指します。
+
+Country/AreaProvider or Authorization
+Examination or QualificationJapan
+
+情報処理の促進に関する法律（昭和四十五年法律第九十号）に基づく経済産業大臣
+
+※情報処理安全確保支援士試験
+
+METI (Minister of Economy, Trade and Industry) based on the Act on　Facilitation of Information Processing (Act No. 90 of 1970)
+
+*Registered Information Security Specialist Examination情報処理安全確保支援士試験
+
+Registered Information Security Specialist Examination情報処理の促進に関する法律に基づく経済産業大臣
+
+※情報処理技術者試験
+
+METI (Minister of Economy, Trade and Industry based on the Act on Facilitation of Information Processing
+
+*Information Technology Engineer ExaminationITストラテジスト試験
+
+Information Technology Strategist Examination
+システムアーキテクト試験
+
+Systems Architect Examinationプロジェクトマネージャ試験
+
+Project Manager Examinationネットワークスペシャリスト試験
+
+Network Specialist Examinationデータベーススペシャリスト試験
+
+Database Specialist Examinationエンベデッドシステムスペシャリスト試験
+
+Embedded Systems Specialist ExaminationITサービスマネージャ試験
+
+Information Technology Service Manager Examinationシステム監査技術者試験
+
+Systems Auditor Examination
+
+応用情報技術者試験
+
+Applied Information Technology Engineer Examination基本情報技術者試験
+
+Fundamental Information Technology Engineer Examination情報セキュリティマネジメント試験
+
+Information Security Management Examination通商産業大臣又は経済産業大臣
+
+※情報処理技術者試験
+
+MITI (Minister of International Trade and Industry) or METI(Minister of Economy, Trade and Industry)
+
+*Information Technology Engineer Examination第一種情報処理技術者認定試験第二種情報処理技術者認定試験第一種情報処理技術者試験
+
+Senior Programmer Examination第二種情報処理技術者試験
+
+Programmer Examination特種情報処理技術者試験
+
+Systems Engineer Examination情報処理システム監査技術者試験
+
+Systems Auditor Examinationオンライン情報処理技術者試験
+
+Online Systems Engineer Examinationネットワークスペシャリスト試験
+
+Network Specialist Examinationシステム運用管理エンジニア試験
+
+Systems Operation Management Engineer Examinationプロダクションエンジニア試験
+
+Software Design & Production Engineer Examinationデータベーススペシャリスト試験
+
+Database Specialist Examinationマイコン応用システムエンジニア試験
+
+Microcomputer Application Systems Design Engineer Examinationシステムアナリスト試験
+
+Systems Analyst Examination
+システム監査技術者試験
+
+Systems Auditor Examination
+
+アプリケーションエンジニア試験
+
+Application Systems Design Engineer Examination
+プロジェクトマネージャ試験
+
+Project Manager Examination上級システムアドミニストレータ試験
+
+Senior Systems Administrator Examinationソフトウェア開発技術者試験
+
+Software Design & Development Engineer Examinationテクニカルエンジニア（ネットワーク）試験
+
+Network Systems Engineer Examinationテクニカルエンジニア(データベース)試験
+
+
+Database Systems Engineer Examinationテクニカルエンジニア(システム管理)試験)
+
+Systems Management Engineer Examinationテクニカルエンジニア(エンベデッドシステム)試験
+
+Embedded Systems Development Engineer Examinationテクニカルエンジニア(情報セキュリティ)試験
+
+Information Security Engineer Examination情報セキュリティアドミニストレータ試験
+
+Information Systems Security Administrator Examination
+情報セキュリティスペシャリスト試験
+
+Information Security Specialist ExaminationChina中国工業和信息化部教育与考試中心系統分析師（システム・アナリスト）
+
+信息系統項目管理師（インフォメーション・システム・プロジェクト・マネージャ）系統架構設計師（システム・アーキテクト）軟件設計師（ソフトウェア設計エンジニア）
+網絡工程師（ネットワーク・エンジニア）数据庫系統工程師（データベース・システム・エンジニア）程序員（プログラマ）中国信息産業部電子教育中心
+
+又は
+
+中国工業和信息化部電子教育与考試中心
+
+系統分析員（システム・アナリスト）高級程序員（ソフトウェア・エンジニア）系統分析師（システム・アナリスト）軟件設計師（ソフトウェア設計エンジニア）網絡工程師（ネットワーク・エンジニア）数据庫系統工程師（データベース・システム・エンジニア）程序員（プログラマ）Philippinesフィリピン国家情報技術標準財団
+
+The Philippine National I.T. Standards (PhilNITS)
+基本情報技術者試験
+
+Fundamental Information Technology Engineer (FE) Certification Exams応用情報技術者試験
+
+Applied Information Technology Engineer Certification (AP) Examsフィリピン・日本情報技術標準試験財団
+
+the Japanese I.T. Standards Exams of the Philippines (JITSE-Phil) Foundation, Inc.基本情報技術者試験
+
+Fundamental Information Technology Engineer ExaminationVietnamハイテクインキュベーショントレーニングセンター
+
+High-tech Incubation and Training Center(HITC)基本情報技術者試験)
+
+Fundamental Information Technology Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer Examinationベトナム情報技術試験訓練支援センター
+又は
+
+ベトナム訓練試験センター
+
+Vietnam Information Technology Training and Examination Center (VITEC)
+
+or
+
+Vietnam Training and Examination Center (VITEC)基本情報技術者試験)
+
+Fundamental Information Technology Engineer Examinationソフトウェア開発技術者試験)
+
+Software Design and Development Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer ExaminationMyanmarミャンマーコンピュータ連盟
+
+Myanmar Computer Federation (MCF)基本情報技術者試験
+
+Fundamental Information Technology Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer ExaminationTaiwan財団法人資訊工業策進会
+
+Institute for Information Industry (III)
+軟体設計専業人員試験網路通訊専業人員試験(資訊安全管理専業人員試験Malaysiaマルチメディア技術促進本部
+
+Multimedia Technology Enhancement Operations Sdn Bhd (METEOR)基本情報技術者試験
+
+Fundamental Information Technology Professional ExaminationThailand国立科学技術開発庁
+
+Thailand National Science and Technology Development Agency (NSTDA)基本情報技術者試験
+
+Fundamental Information Technology Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer Examination国立電子コンピュータ技術センター
+
+National Electronics and Computer Technology Center (NECTEC)基本情報技術者試験
+
+Fundamental Information Technology Engineer ExaminationMongoliaモンゴル国立ＩＴパーク
+
+National IT Park (NITP)
+基本情報技術者試験
+
+Fundamental Information Technology Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer ExaminationBangladeshバングラデシュコンピュータ評議会
+
+Bangladesh Computer Society (BCC)基本情報技術者試験
+
+Fundamental Information Technology Engineer Examination応用情報技術者試験
+
+Applied Information Technology Engineer ExaminationSingaporeシンガポールコンピューターソサイエティ
+
+Singapore Computer Society (SCS)サーティファイド・ＩＴ・プロジェクト・マネージャ
+
+Certified IT Project Manager (CITPM)Korea韓国産業人力公団
+
+Human Resource Development Service of Korea (HRDKorea)情報処理技師
+
+Engineer Information Processing情報処理産業技師
+
+Industrial Engineer Information Processing
+
+現在の仕事との関連性が必要！
+
+高度専門職のポイント加算がされるためには、現在の仕事との関連性が求められています。
+これらの資格と関連性がない仕事の場合はポイント加算がされませんので、ご注意ください。
+
+資格はどうやって証明する？
+
+試験の合格証明書や、資格を持っていることを証明する公的なレターのコピーを提出する必要があります。
+
+高度専門職のポイント計算を使って永住申請をするためには？
+
+3年前70点以上、現在70点、もしくは1年前80点以上、現在80点以上であれば永住申請が可能となります。つまり、ポイント70点以上の場合は最短3年で、80点以上の場合は最短1年で永住申請が可能となります。
+永住申請についてご興味のある方は、コチラの記事をご参照ください。
+
+
+キクチ行政書士事務所
+
+ポイント計算でご質問ありましたら、お気軽にご相談ください！
+
+お問合せ / Inquiry
+
+
+
+過去の投稿はコチラ
+
+2022-11-20
+What IT qualifications are eligible for points in the Highly-Skilled Professional (i)(b) category?
+
+
+2022-11-08
+高度専門職ポイントにおいて、加点対象となるIT資格とは？
+
+
+2022-10-21
+2022年10月11日、ついに観光客の入国も解禁されました！
+
+
+2022-07-26
+【2022年最新情報】永住申請における身元保証人の提出書類は？
+
+Exchange Rate
+CurrencyRate
+プライバシーポリシー
+免責事項
+Japan Time Now
+2026年6月11日 18:31:57
+Menu
+Home
+ブログ
+代表挨拶
+ご依頼の流れ
+サービス内容
+就労ビザを取って日本で働きたい
+配偶者ビザを取って、日本で生活したい
+永住ビザを取りたい
+帰化申請したい
+料金表
+Access
+求人
+お問い合わせ/Inquiry
+相談/Consultation
+English
+キクチ行政書士事務所 / Kikuchi Immigration Services
+東京都渋谷区代々木1-30-14
+天翔オフィス代々木ANNEX #401
+TEL: 080-5061-3950
+
+© Copyright - キクチ行政書士事務所 / Kikuchi Immigration Services -
+
+这个帮我总结一下,全部好好梳理一下
+
+
+
+本文へ
+Multi language
+検索
+文字サイズ
+標準
+拡大
+
+組織・採用
+出入国手続
+在留手続
+在留支援
+退去強制手続
+難民の認定等
+政策情報（会議・統計等）
+広報・情報公開等
+トップページ
+ 政策情報（会議・統計等）
+ 関係法令
+ 関係法令
+出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件
+出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件
+	（平成二十五年法務省告示第四百三十七号）
+最近改正令和二年七月二十日法務省告示第百十八号
+ 
+
+　　出入国管理及び難民認定法第七条第一項第二号の基準を定める省令（平成二年法務省令第十六号）の表の法別表第一の二の表の技術・人文知識・国際業務の項の下欄に掲げる活動の項下欄第一号ただし書の規定に基づき定める情報処理技術に関する試験は次の第一号から第十号までに定めるものとし、情報処理技術に関する資格は第十一号及び第十二号に定めるものとする。
+一　我が国における試験で次に掲げるもの
+　イ　情報処理の促進に関する法律（昭和四十五年法律第九十号）に基づき経済産業大臣が実施する情報処理安全確保支援士試験
+　ロ　情報処理の促進に関する法律に基づき経済産業大臣が実施する情報処理技術者試験のうち次に掲げるもの
+（１）　　ＩＴストラテジスト試験
+（２）　　システムアーキテクト試験
+（３）　　プロジェクトマネージャ試験
+（４）　　ネットワークスペシャリスト試験
+（５）　　データベーススペシャリスト試験
+（６）　　エンベデッドシステムスペシャリスト試験
+（７）　　ＩＴサービスマネージャ試験
+（８）　　システム監査技術者試験
+（９）　　応用情報技術者試験
+（１０）　基本情報技術者試験
+（１１）　情報セキュリティマネジメント試験
+　ハ　通商産業大臣又は経済産業大臣が実施した情報処理技術者試験で次に掲げるもの
+（１）　　第一種情報処理技術者認定試験
+（２）　　第二種情報処理技術者認定試験
+（３）　　第一種情報処理技術者試験
+（４）　　第二種情報処理技術者試験
+（５）　　特種情報処理技術者試験
+（６）　　情報処理システム監査技術者試験
+（７）　　オンライン情報処理技術者試験
+（８）　　ネットワークスペシャリスト試験
+（９）　　システム運用管理エンジニア試験
+（１０）　プロダクションエンジニア試験
+（１１）　データベーススペシャリスト試験
+（１２）　マイコン応用システムエンジニア試験
+（１３）　システムアナリスト試験
+（１４）　システム監査技術者試験
+（１５）　アプリケーションエンジニア試験
+（１６）　プロジェクトマネージャ試験
+（１７）　上級システムアドミニストレータ試験
+（１８）　ソフトウェア開発技術者試験
+（１９）　テクニカルエンジニア（ネットワーク）試験
+（２０）　テクニカルエンジニア（データベース）試験
+（２１）　テクニカルエンジニア（システム管理）試験
+（２２）　テクニカルエンジニア（エンベデッドシステム）試験
+（２３）　テクニカルエンジニア（情報セキュリティ）試験
+（２４）　情報セキュリティアドミニストレータ試験
+（２５）　情報セキュリティスペシャリスト試験
+二　中国における試験で次に掲げるもの
+　イ　中国工業和信息化部教育与考試中心が実施する試験のうち次に掲げるもの
+（１）　　系統分析師（システム・アナリスト）
+（２）　　信息系統項目管理師（インフォメーション・システム・プロジェクト・マネージャ）
+（３）　　系統架構設計師（システム・アーキテクト）
+（４）　　軟件設計師（ソフトウェア設計エンジニア）
+（５）　　網絡工程師（ネットワーク・エンジニア）
+（６）　　数据庫系統工程師（データベース・システム・エンジニア）
+（７）　　程序員（プログラマ）
+　ロ　中国信息産業部電子教育中心又は中国工業和信息化部電子教育与考試中心が実施した試験のうち次に掲げるもの
+（１）　　系統分析員（システム・アナリスト）
+（２）　　高級程序員（ソフトウェア・エンジニア）
+（３）　　系統分析師（システム・アナリスト）
+（４）　　軟件設計師（ソフトウェア設計エンジニア）
+（５）　　網絡工程師（ネットワーク・エンジニア）
+（６）　　数据庫系統工程師（データベース・システム・エンジニア）
+（７）　　程序員（プログラマ）
+三　フィリピンにおける試験で次に掲げるもの
+　イ　フィリピン国家情報技術標準財団（ＰｈｉｌＮＩＴＳ）が実施する試験のうち次に掲げるもの
+（１）　　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+（２）　　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　フィリピン・日本情報技術標準試験財団（ＪＩＴＳＥ　Ｐｈｉｌ）が実施した基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+四　ベトナムにおける試験で次に掲げるもの
+　イハイテクインキュベーショントレーニングセンター（ＨＩＴＣ）が実施する試験のうち次に掲げるもの
+（１）　　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+（２）　　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　ベトナム情報技術試験訓練支援センター（ＶＩＴＥＣ）又はベトナム訓練試験センター（ＶＩＴＥＣ）が実施した試験のうち次に掲げるもの
+（１）　　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+（２）　　ソフトウェア開発技術者（ソフトウェア・デザイン・アンド・ディベロップメント・エンジニア）試験
+（３）　　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+五　ミャンマーにおけるミャンマーコンピュータ連盟（ＭＣＦ）が実施する試験のうち次に掲げるもの
+　イ　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+六　台湾における財団法人資訊工業策進会（ＩＩＩ）が実施した試験のうち次に掲げるもの
+　イ　軟体設計専業人員（ソフトウェア・デザイン・アンド・ディベロップメント・ＩＴ・エキスパート）試験
+　ロ　網路通訊専業人員（ネットワーク・コミュニケーション・ＩＴ・エキスパート）試験
+　ハ　資訊安全管理専業人員（インフォメーション・システム・セキュリティー・ＩＴ・エキスパート）試験
+七　マレーシアにおけるマルチメディア技術促進本部（ＭＥＴＥＯＲ）が実施する基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・プロフェッショナル）試験
+八　タイにおける試験で次に掲げるもの
+　イ　国立科学技術開発庁（ＮＳＴＤＡ）が実施する試験のうち次に掲げるもの
+（１）　　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+（２）　　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　国立電子コンピュータ技術センター（ＮＥＣＴＥＣ）が実施した基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+九　モンゴルにおけるモンゴル国立ＩＴパーク（ＮＩＴＰ）が実施する試験のうち次に掲げるもの
+　イ　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+十　バングラデシュにおけるバングラデシュコンピュータ評議会（ＢＣＣ）が実施する試験のうち次に掲げるもの
+　イ　基本情報技術者（ファンダメンタル・インフォメーション・テクノロジー・エンジニア）試験
+　ロ　応用情報技術者（アプライド・インフォメーション・テクノロジー・エンジニア）試験
+十一　シンガポールにおけるシンガポールコンピューターソサイエティ（ＳＣＳ）が認定するサーティファイド・ＩＴ・プロジェクト・マネージャ（ＣＩＴＰＭ）
+十二　韓国における韓国産業人力公団が認定する資格のうち次に掲げるもの
+　イ　情報処理技師（エンジニア・インフォメーション・プロセシング）
+　ロ　情報処理産業技師（インダストリアル・エンジニア・インフォメーション・プロセシング）
+ページトップ
+サイトマップ
+リンク・著作権等について
+ご意見・情報提供
+
+
+
+
+
+出入国在留管理庁
+〒100-8973　東京都千代田区霞が関1-1-1　中央合同庁舎６号館
+℡045-370-9755（代表） （法人番号 : 7000012030004）
+※開示請求等の手続についてはこちらをご確認ください。
+
+
+外国人在留支援センター（ＦＲＥＳＣ）
+〒160-0004　東京都新宿区四谷1-6-1　四谷タワー13階
+℡0570-011000（代表）
+Copyright © Immigration Services Agency of Japan All Rights Reserved.
+出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件 | 出入国在留管理庁
+
+日本語
+English
+中文（简体）
+中文（繁體）
+한국어
+Orang indonesia
+Español
+ภาษาไทย
+Монгол
+Tagalog
+Português
+Tiếng việt
+မြန်မာ
+नेपाली
+ខ្មែរ
+ALL Language
+日本語
+
+这个官网网页文件，你也好好看一下
